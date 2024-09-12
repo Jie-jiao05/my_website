@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Rohan Alexander"
+  title: "Shanjie Jiao"
   navbar:
     right:
       - href: index.qmd

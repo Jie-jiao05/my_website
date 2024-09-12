@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-I am co-founder of the Toronto Data Workshop, a weekly, online, seminar series that brings together academia and industry to share data science and AI best practice. You can sign up here.
+Shanjie Jiao, Currently working on my 3rd year at UofT under Department of Arts and Science, Major in ECO and STA, Member of Innis College
